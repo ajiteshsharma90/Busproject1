@@ -50,3 +50,11 @@ C:\Users\Admin\Downloads\Online Bus Booking System\Online Bus Booking System\cod
 C:\Users\Admin\Downloads\Online Bus Booking System\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Debug\BusBookingProject.csproj.CopyComplete
 C:\Users\Admin\Downloads\Online Bus Booking System\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Debug\BusBookingProject.dll
 C:\Users\Admin\Downloads\Online Bus Booking System\Online Bus Booking System\code\BusBookingProject\BusBookingProject\obj\Debug\BusBookingProject.pdb
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\bin\BusBookingProject.dll.config
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\bin\BusBookingProject.dll
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\bin\BusBookingProject.pdb
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\obj\Debug\BusBookingProject.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\obj\Debug\BusBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\obj\Debug\BusBookingProject.csproj.CopyComplete
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\obj\Debug\BusBookingProject.dll
+C:\Users\asus\Downloads\asp.net\asp.net\BusBookingProject\obj\Debug\BusBookingProject.pdb
